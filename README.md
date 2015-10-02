@@ -9,10 +9,10 @@ An small sample for implementation a list doubly Linked.
 * Performance and comparator test
 
 ## Documentation
-### com.atsistemas.utils.SampleLinkedList
+### SampleLinkedList
 An implementation with algorithm a list doubly Linked.
 
-### com.atsistemas.utils.SampleIteratorLinkedList
+### SampleIteratorLinkedList
 An implementation Iterator and new method for a list doubly Linked.
 
 
